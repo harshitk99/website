@@ -296,7 +296,7 @@ video{
 
 #page3 h4{
     height: 30vh;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 900;
     text-align: center;
     /* justify-content: center;
@@ -321,11 +321,7 @@ video{
     gap: 70px;
 }
 
-#page4 h1{
-    width: 70%;
-    height: 50vh;
-    z-index: 9;
-}
+
 
 .elem {
     height: 70%;
