@@ -86,7 +86,7 @@ video{
     position: relative;
 }
 #page1 h1::before{
-    content: "WAKE.DRIVE.SPEED UP.";
+    content: "WAKE UP.SPEED UP.";
     position: absolute;
   color: #c9ee62;
   top: -5px;
