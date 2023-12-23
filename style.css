@@ -298,8 +298,9 @@ video{
 }
 
 #page3 h4{
+    width: 72%;
     height: 30vh;
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 900;
     text-align: center;
     /* justify-content: center;
